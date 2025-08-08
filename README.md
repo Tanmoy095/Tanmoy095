@@ -1,4 +1,3 @@
-by github readme.md is 
 # 👋 Hello, I’m Aunmoy Dey (Tanmoy095) — Software Developer | Golang Specialist
 
 I design and develop **high-performance, scalable, and distributed backend systems** that empower modern SaaS platforms.  
