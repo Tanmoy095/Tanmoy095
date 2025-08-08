@@ -1,93 +1,72 @@
-# 👋 Hello, I’m Aunmoy Dey (Tanmoy095) — Software Developer | Golang Specialist
-
-I design and develop **high-performance, scalable, and distributed backend systems** that empower modern SaaS platforms.  
-My expertise spans **clean architecture**, **reliable infrastructure**, and **low-latency data processing**, focusing on building **robust microservices** and **event-driven solutions** for real-world business challenges.
+# Hi, I'm Aunmoy Dey 👋  
+### Software Developer | Golang Specialist
 
 ---
 
-##T 💡 Core Competencies(
-- **Backend Engineering:** Golang, Node.js, TypeScript  
-- **System Architecture:** Microservices, Event-Driven Architecture, Domain-Driven Design (DDD)  
-- **Data & Messaging:** Kafka, RabbitMQ, PostgreSQL, MongoDB, Redis  
-- **API Development:** GraphQL, gRPC, RESTful APIs  
-- **Cloud & DevOps:** Kubernetes (EKS), AWS (S3, Secrets Manager, EC2, Lambda), Docker, Helm, Terraform, GitHub Actions, Vessel, Rio, docker-compose  
-- **Security & Compliance:** OAuth2, JWT, Rate Limiting, IP Filtering, PCI-compliant backend development  
-- **Observability & Monitoring:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  
-- **Other Tools:** AWS CLI, Temporal.io, LLM Frameworks, Enterprise Identity Systems, Custom TCP Protocols  
-- **AI Integration:** Embedding AI workflows to enable intelligent automation and enhanced system capabilities  
+## 🚀 About Me
+
+I have experience in building scalable, secure, and performant distributed systems and SaaS platforms. Expert in Go, cloud-native microservices, event-driven architectures, and API design. Passionate about clean architecture, observability, and infrastructure automation.
 
 ---
 
-## 🏆 Key Achievements
-- Architected a **cloud-native AI-powered Logistics & Shipment Intelligence Platform** leveraging Go, Kafka, and Kubernetes  
-- Developed a **real-time shipment tracking system** with Kafka streams and gRPC, enabling sub-second data updates  
-- Delivered **enterprise-grade APIs** using GraphQL and Golang, optimized for high concurrency and large-scale SaaS platforms  
-- Built PCI-compliant systems with hardened security features and API hardening techniques  
-- Contributed to open-source projects focused on backend tooling, observability, and performance optimization  
+## 💼 Key Projects
+
+- **LogiSynapse:** Real-time AI-powered logistics SaaS built with Go, gRPC, Kafka, GraphQL, and Kubernetes.  
+- **Distributed File Storage:** P2P content-addressable system with encryption and custom TCP transport.  
+- **Hotel Reservation API:** High-performance booking backend with Fiber, JWT, and PostgreSQL.  
+- **Toll Data Platform:** Event-driven microservices for real-time toll processing using Kafka and Redis.  
+- **CrawlNova:** SEO-aware, concurrent web crawler with Redis caching and graceful shutdown.  
+- **Security Proxy Tools:** PCI-compliant Go tools secured with OAuth2, JWT, and rate-limiting.
 
 ---
 
-## 🛠 Technical Toolbox  
+## 🛠️ Technical Toolbox
 
-### Programming Languages & Frameworks  
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+### Languages & Frameworks  
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Fiber](https://img.shields.io/badge/Fiber-000000?logo=fiber&logoColor=white)](https://gofiber.io/)
 
-### API & Communication  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white)  
-![REST](https://img.shields.io/badge/REST-61DAFB?logo=rest&logoColor=black)  
+### APIs & Communication  
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)  
+[![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white)](https://grpc.io/)  
+[![REST](https://img.shields.io/badge/REST-02539A?logo=rest&logoColor=white)](https://restfulapi.net/)
 
-### Messaging & Event Streaming  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)  
+### Messaging & Data  
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Redis](https://img.shields.io/badge/Redis-D32F2F?logo=redis&logoColor=white)](https://redis.io/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Databases & Storage  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-D32F2F?logo=redis&logoColor=white)  
+### Cloud & DevOps  
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Helm](https://img.shields.io/badge/Helm-0F83FF?logo=helm&logoColor=white)](https://helm.sh/)  
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)  
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
-### Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Helm](https://img.shields.io/badge/Helm-0F83FF?logo=helm&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  
-![Vessel](https://img.shields.io/badge/Vessel-000000?logo=github&logoColor=white)  
-![Rio](https://img.shields.io/badge/Rio-007ACC?logo=kubernetes&logoColor=white)  
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker&logoColor=white)  
+### Observability & Security  
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)  
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)  
+[![OAuth2](https://img.shields.io/badge/OAuth2-339933?logo=oauth&logoColor=white)](https://oauth.net/2/)  
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
-### Observability & Monitoring  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
-![ELK Stack](https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white)  
-
-### Security & Compliance  
-![OAuth2](https://img.shields.io/badge/OAuth2-339933?logo=oauth&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-007ACC?logo=kong&logoColor=white)  
-
-### Other Essential Tools  
-AWS CLI | Temporal.io | LLM Integration Frameworks | Enterprise Identity Systems | Custom TCP Protocols  
+### Specialized Tools  
+[AWS CLI](https://aws.amazon.com/cli/), [Temporal.io](https://temporal.io/), LLM Frameworks, Custom TCP Protocols
 
 ---
 
-## 📊 GitHub Stats  
-![Tanmoy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmoy095&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy095&layout=compact&theme=radical)  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy095&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy095&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let’s Connect & Collaborate  
-I’m actively open to **full-time roles, freelance projects, and collaborative opportunities** involving complex backend and distributed systems.  
+## 📫 Contact Me
 
-📩 **Get in touch:**  
-[💼 LinkedIn](https://linkedin.com/in/aunmoy-dey-174232240)  
-[📧 Email](mailto:adtanmoy95@gmail.com)  
-[🌐 Portfolio](https://github.com/Tanmoy095)  
-
----
+[LinkedIn](https://linkedin.com/in/aunmoy-dey-174232240) | adtanmoy95@gmail.com | [GitHub](https://github.com/Tanmoy095)
