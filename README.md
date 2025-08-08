@@ -1,4 +1,11 @@
-# Hi, I'm Aunmoy Dey (Tanmoy095) 👋  
+<p align="center">
+  <sub>
+    Hi, I'm <strong>Aunmoy Dey</strong> — Go Developer focused on building scalable, secure, and high-performance backend systems using modern cloud-native technologies. Experienced in distributed systems, microservices, and SaaS solutions.
+  </sub>
+</p>
+
+---
+
 ## 🛠️ Tech Toolbox
 
 **Languages & Frameworks:**  
